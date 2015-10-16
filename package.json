@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "devDependencies": {
+        "gulp": "^3.8.*",
+        "gulp-compass": "2.1.*"
+    },
+    "dependencies": {
+        "laravel-elixir": "^2.0.*",
+        "bootstrap-sass": "^3.0.*",
+        "bower": "1.3.x"
+    },
+    "scripts": {
+        "postinstall": "./node_modules/bower/bin/bower install"
+    }
+}

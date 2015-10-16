@@ -1,0 +1,14 @@
+/vendor
+.env
+.DS_Store
+.idea
+Thumbs.db
+/.idea/
+.idea/
+/node_modules/
+.idea/workspace.xml
+.sass-cache/
+/npm-debug.log
+/.bundle/
+_ide_helper.php
+/public/bower_components/
